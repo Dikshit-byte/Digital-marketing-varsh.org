@@ -1,7 +1,5 @@
 import React from 'react'
-import img1 from '../images/img1.png'
-import img2 from '../images/img2.png'
-import img3 from '../images/img3.png'
+
 const SmallBanner = ({first,second,third,image1,image2,image3}) => {
   return (
     <>
@@ -24,11 +22,6 @@ const SmallBanner = ({first,second,third,image1,image2,image3}) => {
           <h2 className="font-semibold">{third} </h2>
           
           </div>
-         
-
-          
-         
-         
          </div>
     </>
   )
