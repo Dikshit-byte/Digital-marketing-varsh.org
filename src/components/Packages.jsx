@@ -51,7 +51,7 @@ const Packages = () => {
                     <img src={P3} alt="" />
                 </div>
                 <br /><br />
-                <div className="flex flex-col flex-1 space-y-4 items-center md:items-start justify-center pl-12 mt-[5rem]">
+                <div className="flex flex-col flex-1 space-y-4 items-center md:items-start justify-center pl-12npm st mt-[5rem]">
                     <img  src={P2} alt="" className=''/>
                     <ul className='list-disc'>
                         <li><h2>Logo Designing</h2></li>
